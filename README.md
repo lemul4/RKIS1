@@ -32,7 +32,9 @@ RIKS1 - Aspect-Oriented Programming in Java
 Предварительные требования
 Java Development Kit (JDK) 17
 Склонируйте репозиторий проекта на свой локальный компьютер:
+
 git clone https://github.com/lemul4/RIKS1.git
+
 cd RIKS1
 
 Сборка проекта
